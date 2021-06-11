@@ -38,7 +38,7 @@ class Students extends React.Component {
           <input
             type="text"
             name="fullname"
-            placeholder="Full name"
+            placeholder="Full-name Last-Name"
             onChange={this.updateInput}
             value={this.state.fullname}
           />
